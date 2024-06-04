@@ -157,11 +157,10 @@
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  padding-block: 100px 120px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 80px;
+  padding: 100px 80px;
 }
 .reservation__title {
   font-weight: 500;
