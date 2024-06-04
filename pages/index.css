@@ -53,7 +53,7 @@
 
 .header__span-accent {
   display: block;
-  font-family: "Noto Serif", Times New Roman, serif;
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-style: italic;
   color: #2f80ed;
 }
@@ -72,7 +72,7 @@
 }
 
 .header__description {
-  font-family: "Noto Serif", Times New Roman, serif;
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-size: 20px;
   line-height: 30px;
   max-width: 683px;
@@ -123,7 +123,7 @@
   line-height: 52px;
 }
 .recipes__subtitle {
-  font-family: "Noto Serif", Times New Roman, serif;
+  font-family: "Noto Serif", "Times New Roman", serif;
   max-width: 438px;
   margin-top: 24px;
   font-size: 20px;
@@ -167,7 +167,7 @@
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
-  margin: 100px o 80px 0;
+  margin: 100px 0 80px 0;
 }
 .reservation__form {
   max-width: 385px;
