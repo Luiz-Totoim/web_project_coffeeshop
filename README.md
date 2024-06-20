@@ -22,3 +22,5 @@ Algumas melhorias que podem ser aplicadas:
 - Alteração da cor dos links do menu ao rolar a página
 - Links âncora do menu rolar até a sessão de forma suave ao clicar
 - Animação em alguns elementos da página para deixar mais dinâmico e interativo
+
+Your site is live at https://luiz-totoim.github.io/web_project_coffeeshop/
